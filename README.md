@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bohan Lyu from Tsinghua University. I'm now a memeber of THUNLP.
+- 👋 Hi, I’m Bohan Lyu from Tsinghua University.
 - 👀 I’m interested in NLP, AI4Science, Multimodal Learning.
 - 📫 How to reach me: lvbh22@mails.tsinghua.edu.cn
 - For more information, please refer to my homepage: https://lyubh.cn.
